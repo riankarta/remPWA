@@ -1,0 +1,40 @@
+{
+  "name": "reachmetrics",
+  "short_name": "reachmetrics",
+  "start_url": "https://reachmetrics.blogspot.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3740ff",
+  "description": "Update informasi terbaru seputar SEO, SEM, PPC, social media, algoritma, ranking dan digital marketing.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-B5fm_LJAAig/X5FrRGqpqlI/AAAAAAAABsk/oHG9Yiwjt_Mn6X3CkRTB5XDeumM0rr2mQCLcBGAsYHQ/s0/favicon-16x16.png",
+    "sizes": "16x16",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-SFmw4puNByk/X5FpRBdeZsI/AAAAAAAABr4/cAHSSvqlpqkWlZmrUqYtwJfl12kS8pV5ACLcBGAsYHQ/s0/favicon-32x32.png",
+    "sizes": "32x32",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OSiHVrp42Hk/X5Fp1ElR8tI/AAAAAAAABsA/97BP1OKHg8QDYYMMYFRHCtFbi-0XkmWowCLcBGAsYHQ/s0/favicon.ico",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W-wIbtgpbJs/X5FqG4WaqLI/AAAAAAAABsI/X-60gwOMQZgGoyGUsQB5PDLFRZAdpUKvACLcBGAsYHQ/s0/apple-touch-icon.png",
+    "sizes": "180x180",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uFWIepE-4d0/X5FqUfN-FoI/AAAAAAAABsM/yjimV3EiBhQmb0Dj-zg-_Rg8kDjrGfR7wCLcBGAsYHQ/s0/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NSZLDlrJJvE/X5FqeXwdokI/AAAAAAAABsU/JE_knw7QjTE5vNC8mmnxJTXk3aYsx4ptACLcBGAsYHQ/s0/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
